@@ -1,4 +1,4 @@
-![](https://i.pinimg.com/originals/8c/9a/07/8c9a079986a4ce112882fea6db3ffdee.gif)
+![](https://www.icegif.com/wp-content/uploads/icegif-87.gif)
 # **Ayo what's up my G, it's Lê Gia Khang :3**
 - ### ⏱  18 years old ( 2003 until now)
 - ### 🏙 Was born in SaiGon-VietNam

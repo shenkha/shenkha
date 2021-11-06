@@ -5,7 +5,7 @@
 - ### 🎓 Freshman in UIT 
 - ### 💻 Competitive Programming - stuff i love more than food
 - ### 🏋  ️🎮  🎸 📽 📙: things i love to do as well :33
-# ---------------------------------------------------------------------------
+# ---------------------------------------------------------------------------------
 # **My Studying**
 ### > I'm currently majoring in Computer Science ⌨
 ### > 1k4 points on Upcoder 💾

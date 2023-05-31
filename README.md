@@ -2,8 +2,8 @@
 # **Ayo what's up my G, it's shenkha :3**
 - ### ⏱ I do stuff.
 # **My Studying**
-### > Computer Science - UIT (Saigon, Vietnam) ⌨
-# *On my way beating Michael Scofield*
+## > Computer Science - UIT (Saigon, Vietnam) ⌨
+## *On my way beating Michael Scofield*
 ## *Learning* 
 ### CV - NLP - RL
 # **Contact me via**

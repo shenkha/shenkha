@@ -3,7 +3,7 @@
 - ### ⏱ I do stuff.
 # **My Studying**
 ## > Computer Science - UIT (Saigon, Vietnam) ⌨
-## *On my way beating Michael Scofield*
+## > On my way beating Michael Scofield
 ## *Learning* 
 ### CV - NLP - RL
 # **Contact me via**

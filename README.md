@@ -9,7 +9,7 @@
 - Trustworthy Machine Learning and Robustness, particularly Adversarial Attack & Backdoor Attack under black-box constraints.
 - Applications of Genetic Algorithms.
 # **Contact me via**
--  📧 Email: 21522189@gm.uit.edu.vn
+-  📧 Email: legiakhang03@gmail.com
 -  📱 Facebook: https://www.facebook.com/le.khang.71271/
 
 
